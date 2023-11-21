@@ -1,8 +1,10 @@
 
 //-================================= let and var decalartion concepts
 
-// Example using var
-                // 1st
+//===================================== Example using var
+//================= 1st
+
+
 // function exampleVar() {
 //     var x = 10
 //     if (true) {
@@ -14,7 +16,7 @@
 //   }
 //   exampleVar()
 
-               //2nd
+//=====================2nd
 
 // if(true){
 //     console.log(x ,"outside")
@@ -27,7 +29,7 @@
 // }
 // abcd()
 
-               // 3rd 
+//======================= 3rd 
 
 
                //Example with Function Scope:
@@ -45,7 +47,7 @@
 
  //=================4th
 
-//=========================Example with Redeclaration
+//==================Example with Redeclaration
 
 // var variableToRedeclare = 'Original Value';
 
@@ -57,7 +59,7 @@
 // console.log("Outside if block - variableToRedeclare:", variableToRedeclare);            
 
 
-//+++++++++++++++++++++++++++++Now For Let
+//+++++++++++++++++++++++++++++=============================Now For Let
 // ============================Example with Block Scope:
 
 
