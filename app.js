@@ -2,6 +2,8 @@
 //-================================= let and var decalartion concepts
 
 //===================================== Example using var
+
+//-------------------------------------------------------JUST THINK ALL OUTPUT WITH YOUR OWN MIND FIRST, THEN ON CONSOLE------------------------------------
 //================= 1st
 
 
